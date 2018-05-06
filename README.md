@@ -16,24 +16,24 @@ import requests
 import itertools
 from random import randint
 import pygsheets
-Link: https://github.com/nithinmurali/pygsheets
+https://github.com/nithinmurali/pygsheets
 
 from bs4 import Beautiful Soup
-Link: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
 from pytrends.request import TrendReq
-Link: https://github.com/GeneralMills/pytrends
+https://github.com/GeneralMills/pytrends
 
 # Step 2: Authentication for API
 Set up authentication with google
-Link: https://pygsheets.readthedocs.io/en/latest/authorizing.html
+https://pygsheets.readthedocs.io/en/latest/authorizing.html
 
 # Step 3: Tableau
 Set up Tableau Public or Tableau Desktop
-Link: https://public.tableau.com/s/
+https://public.tableau.com/s/
 
 Note: College Students can get Tableau Desktop for free
-Link: https://www.tableau.com/academic/students
+https://www.tableau.com/academic/students
 
 # Step 4: Jupyter Notebook
 Use my Jupyter Notebook Trends project "Trend-Py-Sheets-Tab.ipynb" tweaking for your use case
@@ -47,4 +47,4 @@ Note: As of 5/5/18 Google Sheets is the only way to have automated refreshing on
 
 # Step 7: Complete Automation with Scheduler
 Save code as a .py and schedule on windows task scheduler or Cron.
-Link: https://www.e-education.psu.edu/geog485/node/143
+https://www.e-education.psu.edu/geog485/node/143
