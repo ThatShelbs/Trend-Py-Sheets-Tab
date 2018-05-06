@@ -11,17 +11,17 @@ Disclaimer: Right now I am more of a data visualization guy so I am just functio
 
 ## Step 1: Python Packages & Docs
 Install needed Python packages and use documentation in links provided:
-··* import pandas as pd
-··* import requests
-··* import itertools
-··* from random import randint
-··* import pygsheets
+* import pandas as pd
+* import requests
+* import itertools
+* from random import randint
+* import pygsheets
 [pygsheets GitHub](https://github.com/nithinmurali/pygsheets)
 
-··* from bs4 import Beautiful Soup
+* from bs4 import Beautiful Soup
 [Beautiful Soup Doc](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
-··* from pytrends.request import TrendReq
+* from pytrends.request import TrendReq
 [pytrends pseduo api](https://github.com/GeneralMills/pytrends)
 
 ## Step 2: Authentication for API
