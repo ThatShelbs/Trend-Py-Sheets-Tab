@@ -1,7 +1,7 @@
 # Trend-Py-Sheets-Tab
 Google Trends + Python + Google Sheets API + Tableau Public = Full Automation
 
-Highlights the process I used to use Python to pull Google Trends data & webscrape 
+Highlights the process I used to to pull Google Trends data & webscrape using Python
 then push the data to my Google Sheets account so Tableau Public will auto-refresh daily. 
 To complete full automation convert .ipynb to .py and schedule routine kickoff using Windows Scheduler or Cron.
 
