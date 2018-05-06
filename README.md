@@ -11,6 +11,7 @@ Disclaimer: Right now I am more of a data visualization guy so I am just functio
 
 ## Step 1: Python Packages & Docs
 Install needed Python packages and use documentation in links provided:
+
 * import pandas as pd
 * import requests
 * import itertools
